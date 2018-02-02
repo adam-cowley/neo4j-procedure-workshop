@@ -44,7 +44,6 @@ public class CustomerProcedures
         }
 
         return output.stream();
-
     }
 
 
